@@ -1,0 +1,20 @@
+{
+  "singleQuote": true,
+  "useTabs": false,
+  "tabWidth": 2,
+  "trailingComma": "all",
+  "importOrder": [
+    "^react",
+    "^next",
+    "^@models",
+    "^@client",
+    "^@controllers",
+    "^@services",
+    "^@components",
+    "^@hooks",
+    "^@utils",
+    "^[./]"
+  ],
+  "importOrderSeparation": true,
+  "importOrderSortSpecifiers": true
+}
